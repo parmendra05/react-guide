@@ -1,4 +1,4 @@
-// index.js — React's entry point
+// index.jsx — React's entry point
 // ReactDOM.createRoot mounts the React app into the #root div in index.html
 import React from "react";
 import ReactDOM from "react-dom/client";
